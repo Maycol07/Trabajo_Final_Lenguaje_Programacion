@@ -208,5 +208,10 @@ namespace CRUD
             }
         }
         #endregion CRUD
+
+        private void dgvListaEstudiante_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
